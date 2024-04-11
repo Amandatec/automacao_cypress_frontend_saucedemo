@@ -27,7 +27,7 @@ Fiz uma automação desde o login do usuário, escolha e compra de produtos até
 
 
 ```bash
-   cd /your/project/path
+   npm install cypress -D
    ```
 
    -Digite o seguinte comando para abrir o Cypress:
