@@ -30,7 +30,7 @@ Fiz uma automação desde o login do usuário, escolha e compra de produtos até
    npm install cypress -D
    ```
 
-   -Digite o seguinte comando para abrir o Cypress:
+   - Digite o seguinte comando para abrir o Cypress:
 
 ```bash
    npx cypress open
